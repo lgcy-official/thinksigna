@@ -395,10 +395,10 @@ export default function Home() {
             </div>
             <div className="min-w-0">
               <h1 className="truncate text-base font-semibold tracking-normal text-ink">
-                Account Enrichment Agent
+                ThinkSignal
               </h1>
               <p className="truncate text-xs text-muted">
-                Live research workspace for outbound sales
+                Live account signals for outbound sales
               </p>
             </div>
           </div>

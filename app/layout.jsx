@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Account Enrichment Agent",
-  description: "Live account intelligence and outreach generation."
+  title: "ThinkSignal",
+  description: "Live account signals and outreach generation."
 };
 
 export default function RootLayout({ children }) {

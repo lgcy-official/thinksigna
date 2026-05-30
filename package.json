@@ -1,5 +1,5 @@
 {
-  "name": "account-enrichment-agent",
+  "name": "thinksignal",
   "version": "0.1.0",
   "private": true,
   "scripts": {

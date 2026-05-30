@@ -1,4 +1,4 @@
-# Account Enrichment Agent
+# ThinkSignal
 
 Real-time account enrichment for sales teams. Enter a company name and optional domain, then the app collects live public web signals with Bright Data and uses OpenAI to synthesize a company brief and outreach email.
 
